@@ -11,7 +11,7 @@ A simple web design project that creates a portrait-style layout using only HTML
 - CSS3
 
 📷 Preview
-![Screenshot](screenshot.png)
+![Screenshot](Screenshot.png))
 
 ✨ Features
 - Pure HTML/CSS implementation
